@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 摩訶般若鈔經
+#+DATE: 2015-08-30 19:43:53.803542
+#+PROPERTY: JUAN 0
