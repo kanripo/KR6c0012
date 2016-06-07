@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:43:53.455151
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:22
 #+TITLE: 摩訶般若鈔經
 #+PROPERTY: CBETA_ID T08n0226
 #+PROPERTY: ID KR6c0012
@@ -18,7 +18,7 @@
 ¶
 前秦天竺沙門曇摩蜱共竺佛念譯¶
 
-3功德品
+* 3功德品
 :PROPERTIES:
 :head: 功德品第三
 :END:
