@@ -1,28 +1,23 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:43:53.455151
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:22
 #+TITLE: 摩訶般若鈔經
 #+PROPERTY: CBETA_ID T08n0226
 #+PROPERTY: ID KR6c0012
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 08, No. 226
 #+PROPERTY: VOL 08
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0012_T_000-0508b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6c0012_T_002-0513b> ¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 ¶
 ¶
-
- 《摩訶般若鈔經》卷第二¶
+《摩訶般若鈔經》卷第二¶
 ¶
 前秦天竺沙門曇摩蜱共竺佛念譯¶
 
-3功德品
-:PROPERTIES:
-:head: 功德品第三
-:END:
-¶
+* 功德品第三¶
 
 爾時，諸因坻天、諸梵天、諸波耶和提天、諸伊¶
 沙天、諸那提乾天，同時三反作是稱譽法：「賢¶
